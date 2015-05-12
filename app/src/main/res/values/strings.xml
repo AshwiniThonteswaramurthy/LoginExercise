@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginExercise</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login_label">Login. Here we go!</string>
+    <string name="enter_email">E-mail address</string>
+    <string name="enter_password">Password</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="login_btn_label">Login</string>
+    <string name="forgot_password">I forgot my password</string>
+</resources>
